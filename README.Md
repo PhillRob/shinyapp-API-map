@@ -7,3 +7,4 @@ This app uses the [fulcrum api](http://developer.fulcrumapp.com/api/intro/) to d
 * Frequency plot
 
 More to come...
+ 
